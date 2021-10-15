@@ -2,7 +2,7 @@
 // ana0039
 // project4_Akella_ana0039.cpp
 //  use g++ to compile ./a.out to run
-// No help used
+// help recieved: project4.pdf
 
 #include <cassert>
 #include <fstream>
